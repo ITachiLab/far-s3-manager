@@ -1,0 +1,7 @@
+= FAR S3 Manager
+
+== Introduction
+
+*FAR S3 Manager* is a plugin for FAR Manager that adds support for AWS S3
+file storage. Thanks to this plugin, you can use FAR Manager for browsing files
+on S3 and also upload and download them.

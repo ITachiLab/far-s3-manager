@@ -1,0 +1,4 @@
+BasedOnStyle: Google
+SortIncludes: Never
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: Empty
