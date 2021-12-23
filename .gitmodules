@@ -1,0 +1,3 @@
+[submodule "external/FarManager"]
+	path = external/FarManager
+	url = https://github.com/FarGroup/FarManager
