@@ -1,0 +1,16 @@
+#ifndef FAR_S3_MANAGER_PLUGIN_INCLUDE_GUID_H_
+#define FAR_S3_MANAGER_PLUGIN_INCLUDE_GUID_H_
+
+#define GUID_MAIN_STR L"eda4032c-756f-4c2f-af18-9c5916267bf0"
+DEFINE_GUID(GUID_MAIN, 0xeda4032c, 0x756f, 0x4c2f, 0xaf, 0x18, 0x9c, 0x59, 0x16,
+            0x26, 0x7b, 0xf0);
+
+// fba2399b-6f36-4e1c-9847-aba92b1e59d8
+DEFINE_GUID(GUID_MENU, 0xfba2399b, 0x6f36, 0x4e1c, 0x98, 0x47, 0xab, 0xa9, 0x2b,
+            0x1e, 0x59, 0xd8);
+
+// cedf9626-2c9a-4129-b033-005f08af9e72
+DEFINE_GUID(GUID_PLUGINS_MENU, 0xcedf9626, 0x2c9a, 0x4129, 0xb0, 0x33, 0x00, 0x5f,
+            0x08, 0xaf, 0x9e, 0x72);
+
+#endif  // FAR_S3_MANAGER_PLUGIN_INCLUDE_GUID_H_

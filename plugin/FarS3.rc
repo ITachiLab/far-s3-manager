@@ -1,0 +1,6 @@
+#pragma code_page(65001)
+
+#include "Guid.h"
+#include "Version.h"
+
+#include <plugin_version.rc>

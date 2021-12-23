@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+  GetGlobalInfoW
+  SetStartupInfoW
+  GetPluginInfoW
+  OpenW
